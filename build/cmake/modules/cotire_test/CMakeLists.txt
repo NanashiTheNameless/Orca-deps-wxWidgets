@@ -1,6 +1,6 @@
 # cotire example project
 
-cmake_minimum_required(VERSION 2.8.12)
+cmake_minimum_required(VERSION 3.13)
 
 if (POLICY CMP0058)
 	# Ninja requires custom command byproducts to be explicit
